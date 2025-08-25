@@ -6,9 +6,9 @@
 Binary classification to predict **benign vs malignant** tumors using the public **Breast Cancer Wisconsin (Diagnostic)** dataset. I compare **Logistic Regression** and **Random Forest** and evaluate with Accuracy, Precision, Recall, F1, and ROC AUC.
 
 ## Raw Dataset
-- Built-in public dataset from `sklearn.datasets.load_breast_cancer` (original from UCI ML Repository): https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
-Also can be found on Kaggle:
-  https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+- Built-in public dataset from `sklearn.datasets.load_breast_cancer` (original from UCI ML Repository)
+- Original from UCI ML Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+  Also can be found on Kaggle: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 - Full raw CSV exported in this repo: `raw_breast_cancer_wisconsin.csv`.
 
 ## Analysis Process
